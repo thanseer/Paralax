@@ -1,0 +1,19 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.wrapper{
+	margin: 0 auto;
+	padding: 15px;
+	max-width: 1000px;
+}
+p{
+	font: normal 14px/20px Arial;
+	color: #111;
+	margin: 5px 0 10px 0;
+}
+/*===== Pralax Style ====*/
+.parallax-window {
+    min-height: 600px;
+    background: transparent;
+}
